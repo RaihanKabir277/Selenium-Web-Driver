@@ -28,14 +28,14 @@ Each script demonstrates a different real-world automation task — from web scr
 
 **Clone the repository:**
 
-git clone https://github.com/your-username/selenium-day48.git
-cd selenium-day48
+- git clone https://github.com/your-username/selenium-day48.git
+- cd selenium-day48
 
 **Run any of the scripts:**
 
-python main.py
-python interaction.py
-python fromsignup.py
+- python main.py
+- python interaction.py
+- python fromsignup.py
 
 ### 1️⃣ Install Selenium
 ```bash
