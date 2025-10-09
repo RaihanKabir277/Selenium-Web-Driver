@@ -22,10 +22,11 @@ driver.get("https://en.wikipedia.org/wiki/Main_Page")
 
 # ------- search automatically sending keyboard input to Selenium --------
 
-search1 = driver.find_element(By.NAME, value="search")
-# search1.send_keys("Python")
-# search1.send_keys(Keys.ENTER)
-search1.send_keys("Python", Keys.ENTER)
+# search1 = driver.find_element(By.NAME, value="search")
+# # search1.send_keys("Python")
+# # search1.send_keys(Keys.ENTER)
+# search1.send_keys("Python", Keys.ENTER)
+
 
 
 driver.quit()
